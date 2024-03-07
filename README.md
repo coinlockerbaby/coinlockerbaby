@@ -5,8 +5,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=coinlockerbaby&show_icons=true&theme=vue-dark"/>
 
 <p align="left">
-   <img align="left" src="https://www.openeuler.org/assets/logo.c7c57318.svg"/>
-   <a href="#">
       <img src="https://raw.githubusercontent.com/armbian/build/main/.github/armbian-logo.png" alt="debian" width="40" height="50"/>
    </a>
    <a href="#">
